@@ -1,6 +1,6 @@
 <font size="8">Welcome to my page</font>
 ---
-╰( ^o^)╮ <font size="5" color="red"> BIO ╰( ^o^)╮
+# BIO <font size="2">╰( ^o^)╮</font>
 
 
 <!--
