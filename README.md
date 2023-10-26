@@ -17,6 +17,11 @@
 [mail]: mailto:ducnam3042005@gmail.com
 [linkedin]: https://www.linkedin.com/in/nguyen-duc-nam/
 
----
 
-<img width="100%" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felixilars)](https://github.com/felixilars/github-readme-stats)"
+<a href="https://github.com/felixilars/github-readme-stats">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=felixilars&show_icons=true&theme=tokyonight&text_color=fafafa&include_all_commits=true&hide=contribs" />
+</a>
+<!-- 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?
+username=felixilars&show_icons=true&theme=tokyonight&text_color=fafafa&include_all_commits=true&hide=contribs)](https://github.com/felixilars/github-readme-stats)
+-->
