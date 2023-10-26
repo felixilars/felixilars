@@ -19,4 +19,4 @@
 
 ---
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=felixilars&show_icons=true&icon_color=fff&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true" alt="felixilars" />
+<img width="100%" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felixilars)](https://github.com/felixilars/github-readme-stats)"
