@@ -16,3 +16,7 @@
 
 [mail]: mailto:ducnam3042005@gmail.com
 [linkedin]: https://www.linkedin.com/in/nguyen-duc-nam/
+
+---
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=felixilars&show_icons=true&icon_color=fff&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true" alt="felixilars" />
