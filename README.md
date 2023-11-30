@@ -27,7 +27,7 @@
 ### You can find in me in the web 🌍
 [<img align="left" alt="nguyen-duc-nam | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="nguyen-duc-nam | mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][mail]
-[<img align="left" alt="nguyen-duc-nam | Personal Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/website.svg" />][website]
+[<img align="left" alt="nguyen-duc-nam | Personal Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" />][website]
 <br/>
 
 
