@@ -25,15 +25,16 @@
 ---
 
 ### You can find in me in the web 🌍
-[<img align="left" alt="nguyen-duc-nam | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="nguyen-duc-nam | mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][mail]
-[<img align="left" alt="nguyen-duc-nam | Personal Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" />][website]
-<br/>
 
-
-[mail]: mailto:ducnam3042005@gmail.com
-[linkedin]: https://www.linkedin.com/in/nguyen-duc-nam/
-[website]: https://felixilars.github.io
+<a href="felixilars.github.io" style="text-decoration: none;">
+<img src="https://img.shields.io/badge/website-%23ED8B00?style=for-the-badge&logo=Google-chrome&logoColor=white" />
+</a>
+<a href="[https://www.linkedin.com/in/thanh-tung-vu-2016hn/](https://www.linkedin.com/in/nguyen-duc-nam/)" style="text-decoration: none;">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:ducnam3042005@gmail.com" style="text-decoration: none;">
+<img src="https://img.shields.io/badge/email-%23EA4335?&style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 
 <a href="https://github.com/felixilars/github-readme-stats">
