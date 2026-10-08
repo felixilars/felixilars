@@ -33,7 +33,7 @@
 ---
 
 <a href="https://github.com/felixilars/github-readme-stats">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=felixilars&show_icons=true&theme=tokyonight&text_color=fafafa&include_all_commits=true&hide=contribs" />
+  <img width="120%" src="https://github-readme-stats.vercel.app/api?username=felixilars&show_icons=true&theme=tokyonight&text_color=fafafa&include_all_commits=true&hide=contribs" />
 </a>
 <!-- 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?
